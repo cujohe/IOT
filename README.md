@@ -1,9 +1,5 @@
 # 🏥 医院装备物联网智能管理系统
 
-[![License](./README.assets/License-MIT-green.svg+xml)](https://opensource.org/licenses/MIT)
-[![Spring Boot](./README.assets/Spring Boot-3.1.4-brightgreen.svg+xml)](https://spring.io/projects/spring-boot)
-[![Vue](./README.assets/Vue-3.3-4fc08d.svg+xml)](https://vuejs.org/)
-
 > 基于物联网技术的医疗装备全生命周期管理系统，实现对医疗设备的实时监控、预防性维护与智能分析
 
 ## 🌟 核心功能
@@ -16,6 +12,10 @@
 | **维护闭环管理**   | 工单自动化流转（钉钉/企业微信对接），维修人员GPS定位追踪     |
 | **耗材智能预测**   | 结合设备使用频率和库存量的时间序列分析算法                   |
 | **数据分析大屏**   | ECharts可视化引擎，支持设备使用效能分析、科室成本核算等主题模型 |
+
+![屏幕截图 2025-03-16 133749](./README.assets/屏幕截图 2025-03-16 133749.png)
+
+![屏幕截图 2025-03-16 133815](./README.assets/屏幕截图 2025-03-16 133815.png)
 
 ## 🗃️ 系统架构
 
